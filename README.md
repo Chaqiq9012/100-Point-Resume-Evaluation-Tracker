@@ -65,5 +65,3 @@ I designed the dashboard using a "Deep Trust & High Tech" brand identity (Navy B
 * `resume_dataset_200k_enhanced.csv`: The raw dataset used for this project.
 * `Talent_Intelligence_Hub.pbix`: The final Power BI dashboard file.
 
----
-*Developed by [Your Name/GitHub Profile]*
